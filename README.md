@@ -4,7 +4,7 @@
 **nicholasjhorton/nicholasjhorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a biostatistician and data science at Amherst College who works to develop data acumen in our students and to improve the teaching of data science and statistics.
+I'm a biostatistician and data science at [Amherst College](https://www.amherst.edu/people/facstaff/nhorton) who works to develop data acumen in our students and to improve the teaching of data science and statistics.
 
 - 🔭 I’m currently working on teaching reproducibility and replicability
 - 🌱 I’m currently learning new tools for workflow
